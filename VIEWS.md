@@ -2,7 +2,7 @@
 
 - '/'
  - statystyki dzisiejszych zamówień (zdalne i lokalne)
- - listę rezerwacj ii eventów zaplanowanych na dzisiaj
+ - listę rezerwacj i eventów zaplanowanych na dzisiaj
 
 
 # Logowanie 
@@ -10,7 +10,6 @@
 - '/login'
  - pola na login i hasło
  - guzik do zalogowania (link do dashboardu)
- - 
 
 
 # Widok dostępności stolików
