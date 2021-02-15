@@ -10,6 +10,7 @@ import TablesEventsNew from './components/views/Tables/TablesEventsNew';
 import TablesEventsId from './components/views/Tables/TablesEventsId';
 import Waiter from './components/views/Waiter/Waiter';
 import WaiterOrderNew from './components/views/Waiter/WaiterOrderNew';
+import WaiterOrderId from './components/views/Waiter/WaiterOrderId';
 import Kitchen from './components/views/Kitchen/Kitchen';
 
 function App() {

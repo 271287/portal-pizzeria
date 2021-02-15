@@ -39,7 +39,7 @@
   - w kolumnach różne informacje (status, czas od ostatniej aktywności)
   - w ostatniej kolumnie będziemy mieli dostępne akcje dla danego stolika
 - '/waiter/order/new'
- - numer sotlika (edytowalny)
+ - numer stolika (edytowalny)
  - menu produktów
  - opcje wybranegi produktu
  - zamówione produkty z opcjami i ceną
