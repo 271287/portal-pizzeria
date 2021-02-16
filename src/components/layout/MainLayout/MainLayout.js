@@ -1,5 +1,5 @@
 import React from 'react';
-import PageNav from '../PageNav';
+import PageNav from '../PageNav/PageNav';
 import PropTypes from 'prop-types';
 
 const MainLayout = ({ children }) => (
