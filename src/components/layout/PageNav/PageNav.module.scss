@@ -1,5 +1,10 @@
-.navLink {
-    text-decoration: none;
-    margin: 20px;
-    color: orangered;
+@import '../../../styles/settings.scss';
+
+.navLink { 
+    padding: $base-size;
+    margin-left: auto;
   }
+
+.link {
+  color: inherit;
+}

@@ -19,7 +19,7 @@
  - tabela z listą rezerwacji oraz wydarzeń
   - każda kolumna = 1 stolik
   - każdy wiersz = blok 30min
-  - ma przpominać widok tygodnia z kalendarza google, gdzie w kolemnach zamiast dni są różne stoliki
+  - ma przypominać widok tygodnia z kalendarza google, gdzie w kolumnach zamiast dni są różne stoliki
   - po kliknięciu rezerwacji lub eventu przechodzimy na stronę szczegółów
 - '/tables/booking/new'
  - zawiera wszystkie informacje i daty dotyczące rezerwacji
@@ -41,7 +41,7 @@
 - '/waiter/order/new'
  - numer stolika (edytowalny)
  - menu produktów
- - opcje wybranegi produktu
+ - opcje wybranego produktu
  - zamówione produkty z opcjami i ceną
  - kwotę zamówienia
 - '/waiter/order/:id'
