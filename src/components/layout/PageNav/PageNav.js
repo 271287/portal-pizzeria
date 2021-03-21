@@ -7,6 +7,9 @@ const PageNav = () => (
   <nav className={styles.component}>
     <Button className={styles.link} component={NavLink} exact to={`${process.env.PUBLIC_URL}/`} activeClassName="active" >dashboard</Button>
     <Button className={styles.link} component={NavLink} exact to={`${process.env.PUBLIC_URL}/login`} activeClassName="active" >login</Button>
+    <Button className={styles.link} component={NavLink} to={`${process.env.PUBLIC_URL}/tables`} activeClassName='active'>tables</Button>
+    <Button className={styles.link} component={NavLink} to={`${process.env.PUBLIC_URL}/waiter`} activeClassName='active'>waiter</Button>
+    <Button className={styles.link} component={NavLink} to={`${process.env.PUBLIC_URL}/kitchen`} activeClassName='active'>kitchen</Button>
   </nav>
 );
 
