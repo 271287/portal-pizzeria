@@ -3,7 +3,7 @@ import styles from './Tables.module.scss';
 
 const TablesEventsId = () => (
   <div className={styles.component}>
-    <h2>Tables Events Id View</h2>
+    <h2>Tables Events View</h2>
   </div>
 );
 

@@ -3,7 +3,7 @@ import styles from './Tables.module.scss';
 
 const TablesBookingId = () => (
   <div className={styles.component}>
-    <h2>Tables Booking Id View</h2>
+    <h2>Tables Booking View</h2>
   </div>
 );
 
